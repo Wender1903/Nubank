@@ -1,0 +1,9 @@
+Cabin:
+https://fonts.google.com/specimen/Cabin?query=cabin
+
+font-family: 'Cabin', sans-serif;
+
+Nanum Gothic:
+https://fonts.google.com/specimen/Nanum+Gothic?query=nanum
+
+font-family: 'Nanum Gothic', sans-serif;
